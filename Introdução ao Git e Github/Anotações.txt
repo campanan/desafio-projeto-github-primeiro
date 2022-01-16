@@ -1,0 +1,7 @@
+https://www.markdownguide.org/basic-syntax
+
+Git bash - console terminal extendido
+
+Comandos básicos
+
+https://blog.testproject.io/2021/03/22/git-commands-every-sdet-should-know/
